@@ -40,21 +40,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema Acessibilidade Web, o ebook fala sobre os tipos de perfis de usuários que um programador precisa considerar quando desenvolve uma página web. O título deve ser épico e curto, e que chame a atenção do futuro leitor, me liste 5 variações de títulos. |
 | introdução | Crie uma introdução para o ebook falando sobre o que é acessibilidade web. Aborde sobre as pessoas com deficiências e as com barreiras temporárias. |
-| conteúdo | Escreva um texto para um ebook, com foco em acessibilidade web, listando os perfis de usuários com deficiências e/ou barreira temporárias, com exemplos de necessidades e restrições para a melhor experiência do usuário.
-
-{REGRAS}
-> Explique sempre de uma maneira simples. 
-> Deixe o texto enxuto. 
-> Sempre deixe um título sugestivo por tópico
-
-{PERFIS DE USUÁRIOS }
-> Ansiedade 
-> Espectro autista 
-> Surdo ou com deficiência auditiva 
-> Dislexia 
-> Baixa visão 
-> Deficiências físicas ou motoras 
-> Leitores de tela |
+| conteúdo | Escreva um texto para um ebook, com foco em acessibilidade web, listando os perfis de usuários com deficiências e/ou barreira temporárias, com exemplos de necessidades e restrições para a melhor experiência do usuário {REGRAS} ─ > Explique sempre de uma maneira simples. > Deixe o texto enxuto. > Sempre deixe um título sugestivo por tópico.    {PERFIS DE USUÁRIOS } ─ > Ansiedade > Espectro autista > Surdo ou com deficiência auditiva > Dislexia > Baixa visão > Deficiências físicas ou motoras > Leitores de tela |
 
 
 ## ✨ Features
