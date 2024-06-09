@@ -38,8 +38,23 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema Acessibilidade Web, o ebook fala sobre os tipos de perfis de usuários que um programador precisa considerar quando desenvolve uma página web. O título deve ser épico e curto, e que chame a atenção do futuro leitor, me liste 5 variações de títulos. |
+| introdução | Crie uma introdução para o ebook falando sobre o que é acessibilidade web. Aborde sobre as pessoas com deficiências e as com barreiras temporárias. |
+| conteúdo | Escreva um texto para um ebook, com foco em acessibilidade web, listando os perfis de usuários com deficiências e/ou barreira temporárias, com exemplos de necessidades e restrições para a melhor experiência do usuário.
+
+{REGRAS}
+> Explique sempre de uma maneira simples. 
+> Deixe o texto enxuto. 
+> Sempre deixe um título sugestivo por tópico
+
+{PERFIS DE USUÁRIOS }
+> Ansiedade 
+> Espectro autista 
+> Surdo ou com deficiência auditiva 
+> Dislexia 
+> Baixa visão 
+> Deficiências físicas ou motoras 
+> Leitores de tela |
 
 
 ## ✨ Features
@@ -51,4 +66,9 @@ ChatGPT：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado em `output`
+
+
+## 🛠️ Contribua
+
+Você pode ajudar a aprimorar o conteúdo do e-book fazendo contribuições para este repositório, trazendo melhorias gerais na qualidade e eficácia do e-book.
