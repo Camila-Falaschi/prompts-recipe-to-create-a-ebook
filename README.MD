@@ -13,7 +13,7 @@
 <p align="center">
 <img 
     src="./assets/Desenvolvendo-Inclusão-Ebook-Cover.png"
-    width="400"  
+    width="250"  
 />
 </p>
 
